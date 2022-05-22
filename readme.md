@@ -35,4 +35,20 @@ Instructions on how to use them in your own application are linked below.
 ## Captures écran des pages
 
 
+### login page
+## -----------------------------------------------------
+![Employee data](./images_b_wordpress/login%20page.png?raw=true "login page ")
+
+### Register page
+![Employee data](./images_b_wordpress/register%20page.png "Register page ")
+
+### Home page
+![Employee data](./images_b_wordpress/home%20page.png "Home page ")
+### Show product page
+![Employee data](./images_b_wordpress/show%20prodect%20details.png "how product page")
+### Basket page
+![Employee data](./images_b_wordpress/basket%20page.png "Basket page")
+
+### Wishlist page
+![Employee data](./images_b_wordpress/page%20wishlist.png "Basket page")
 
