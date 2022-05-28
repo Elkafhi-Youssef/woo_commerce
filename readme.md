@@ -43,7 +43,7 @@ Instructions on how to use them in your own application are linked below.
 ![Employee data](./images_b_wordpress/register%20page.png "Register page ")
 
 ### Home page
-![Employee data](./images_b_wordpress/home%20page.png "Home page ")
+![Employee data](./images_b_wordpress/homepagef.png "Home page ")
 ### Show product page
 ![Employee data](./images_b_wordpress/show%20prodect%20details.png "how product page")
 ### Basket page
@@ -51,4 +51,8 @@ Instructions on how to use them in your own application are linked below.
 
 ### Wishlist page
 ![Employee data](./images_b_wordpress/page%20wishlist.png "Basket page")
+### Shop page
+![Employee data](./images_b_wordpress/shop.png "Shop page")
+### Payment page
+![Employee data](./images_b_wordpress/payment.png "Payment page")
 
